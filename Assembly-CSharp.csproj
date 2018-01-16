@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\Main.cs" />
      <Compile Include="Assets\Prefabs\MyPrefabInstantiator.cs" />
+     <Compile Include="Assets\Vuforia\Scripts\BoschButton.cs" />
      <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
      <Compile Include="Assets\Vuforia\Scripts\DefaultSmartTerrainEventHandler.cs" />
      <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
